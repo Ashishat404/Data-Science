@@ -1,4 +1,4 @@
-# 📊 Data Science Portfolio
+# 📊 Data Science
 
 A collection of Data Science and Machine Learning projects implemented in Python using Jupyter Notebooks. This repository showcases hands-on experience with real-world datasets, covering topics from regression and classification to deep learning and anomaly detection.
 
