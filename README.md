@@ -39,8 +39,10 @@ Implementing an Autoencoder neural network to detect anomalies in data. Uses rec
 
 ### 5. 🔍 [Local Code Search Engine](./LocalCodeSearchEngine.ipynb)
 Building a local code search engine that allows semantic search across a codebase. Leverages NLP techniques to find relevant code snippets based on natural language queries.
+- **Idea:** Keyword Search, Function Detection, File Ranking. 
 
 - **Techniques:** NLP, Semantic Search, Embeddings, Information Retrieval
+
 
 ---
 
